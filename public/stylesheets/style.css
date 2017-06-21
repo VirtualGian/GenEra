@@ -1,8 +1,17 @@
-body {
-  padding: 0px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+
+html {
+    line-height: 1.5;
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    color: rgba(0,0,0,0.87);
+  }
 
 nav{
+ color: black;
   background-color:#bbdefb;
+}
+
+h1 { color: black;
+  font-style: oblique;
+
 }
