@@ -8,9 +8,9 @@ var bodyParser = require('body-parser');
 var index = require('./routes/index');
 var users = require('./routes/users');
 var register = require('./routes/register');
-var register = require('./routes/student');
-var register = require('./routes/contact');
-var register = require('./routes/home');
+var student = require('./routes/student');
+var contact  = require('./routes/contact');
+var home = require('./routes/home');
 
 
 var app = express();
