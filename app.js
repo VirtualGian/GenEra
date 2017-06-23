@@ -11,6 +11,10 @@ var register = require('./routes/register');
 var student = require('./routes/student');
 var contact  = require('./routes/contact');
 var home = require('./routes/home');
+var pres = require('./routes/pres');
+var pres2 = require('./routes/pres2');
+var pres3 = require('./routes/pres3');
+
 
 
 var app = express();
@@ -33,6 +37,9 @@ app.use('/register', register);
 app.use('/student', student);
 app.use('/contact', contact);
 app.use('/home', home);
+app.use('/pres', pres);
+app.use('/pres2', pres2);
+app.use('/pres3', pres3);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
