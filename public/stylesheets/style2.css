@@ -6,7 +6,49 @@ html {
     color: rgba(0,0,0,0.87);
     background-color: #3d3d3d;
     color: white;
+  
+    background-image: url("https://static.pexels.com/photos/356079/pexels-photo-356079.jpeg");
+    background-color: #cccccc;
+
+  }
+
+nav{
+
+  background-color: #78d7f9;
+  font-size: 30px
 }
-nav {
-background-color:#78d7f9
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: white;
+
+
+
+}
+
+p { font-size: 25px;
+  text-align: center;
+}
+
+footer {
+  color: #78d7f9;
+
+}
+
+li {
+  font-size: 20px;
+  color: #78d7f9
+
+
+}
+
+body {
+
+
+
+
+}
+.btn { background-color: #78d7f9;
+color: white;
 }
