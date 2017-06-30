@@ -7,7 +7,7 @@ html {
     color: white;
     background-image: url("https://static.pexels.com/photos/356079/pexels-photo-356079.jpeg");
     background-color: #78d7f9;
-    background-size: 5000px;
+    background-size: 9000px;
 
   }
 
@@ -36,6 +36,7 @@ p { font-size: 25px;
 
 
 }
+
 
 footer {
   color: #78d7f9;
